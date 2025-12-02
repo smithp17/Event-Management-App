@@ -8,12 +8,6 @@ A modern, full-stack event management platform built with React, Node.js, MongoD
 ![MongoDB](https://img.shields.io/badge/MongoDB-7.x-brightgreen)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="screenshots/home.png" alt="Home Page" width="80%"/>
-  <p><em>Modern, colorful homepage with animated hero section</em></p>
-</div>
 
 ## ✨ Features
 
