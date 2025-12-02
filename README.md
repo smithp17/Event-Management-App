@@ -483,19 +483,7 @@ npm test
 - [ ] Real-time chat works
 - [ ] Search and filters work
 
-## 🚢 Deployment
 
-### Backend (Railway/Render)
-1. Push code to GitHub
-2. Connect to Railway/Render
-3. Set environment variables
-4. Deploy
-
-### Frontend (Vercel/Netlify)
-1. Push code to GitHub
-2. Connect to Vercel/Netlify
-3. Set environment variables
-4. Deploy
 
 ### Environment Variables for Production
 ```env
